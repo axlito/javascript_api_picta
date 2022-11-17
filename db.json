@@ -1,0 +1,2545 @@
+{
+    "count": 222,
+    "facets": {},
+    "next": 2,
+    "previus": null,
+    "results": [
+        {
+            "pelser_id": 1275,
+            "nombre": "Los entresijos de la FIFA",
+            "cantidad_temporadas": 1,
+            "cantidad_capitulos": 4,
+            "ano": 2022,
+            "pais": "EEUU",
+            "director": [
+                {
+                    "id": 6889,
+                    "nombre": "Daniel Gordon"
+                }
+            ],
+            "guion": [
+                {
+                    "id": 1022,
+                    "nombre": "Desconocido"
+                }
+            ],
+            "musica": [
+                {
+                    "id": 1022,
+                    "nombre": "Desconocido"
+                }
+            ],
+            "fotografia": [
+                {
+                    "id": 1022,
+                    "nombre": "Desconocido"
+                }
+            ],
+            "reparto": [
+                {
+                    "id": 1909,
+                    "nombre": "Documental"
+                }
+            ],
+            "productora": [
+                {
+                    "id": 528,
+                    "tipo": "productora",
+                    "nombre": " Valve Films (Distribuidora: Netflix)"
+                },
+                {
+                    "id": 1373,
+                    "tipo": "productora",
+                    "nombre": "Ventureland"
+                }
+            ],
+            "imagen_secundaria": "https://www.picta.cu/imagen/img_m6MbC87.jpeg",
+            "genero": [
+                {
+                    "id": 18,
+                    "tipo": "ci",
+                    "nombre": "Deportivo"
+                },
+                {
+                    "id": 84,
+                    "tipo": "ci",
+                    "nombre": "Serie Documental"
+                }
+            ],
+            "canal": {
+                "id": 3540,
+                "nombre": "D'Series",
+                "tipo": "canal",
+                "slug_url": "d-series-2020-05-24-00-10-02-028160",
+                "publicado": true,
+                "eliminado": false,
+                "internacional": false,
+                "usuario": {
+                    "id": 871,
+                    "username": "Hellsing"
+                },
+                "usuarios_asociados": [
+                    {
+                        "id": 2030,
+                        "username": "AltF4-Corporativo"
+                    },
+                    {
+                        "id": 871,
+                        "username": "Hellsing"
+                    },
+                    {
+                        "id": 91,
+                        "username": "luisenriquez"
+                    }
+                ]
+            },
+            "prioridad": 1,
+            "last_update": "2022-11-12T12:18:27.006897",
+            "nr": true
+        },
+        {
+            "pelser_id": 1274,
+            "nombre": "The Peripheral",
+            "cantidad_temporadas": 1,
+            "cantidad_capitulos": 5,
+            "ano": 2022,
+            "pais": "EEUU",
+            "director": [
+                {
+                    "id": 6882,
+                    "nombre": "Scott B. Smith"
+                }
+            ],
+            "guion": [
+                {
+                    "id": 6883,
+                    "nombre": "Jamie Chan"
+                },
+                {
+                    "id": 6882,
+                    "nombre": "Scott B. Smith"
+                }
+            ],
+            "musica": [
+                {
+                    "id": 5430,
+                    "nombre": "Mark Korven"
+                }
+            ],
+            "fotografia": [
+                {
+                    "id": 6884,
+                    "nombre": "Stuart Howell"
+                }
+            ],
+            "reparto": [
+                {
+                    "id": 6888,
+                    "nombre": "Adelind Horan"
+                },
+                {
+                    "id": 6887,
+                    "nombre": "Charlotte Riley"
+                },
+                {
+                    "id": 2648,
+                    "nombre": "Chloë Grace Moretz"
+                },
+                {
+                    "id": 3128,
+                    "nombre": "Eli Goree"
+                },
+                {
+                    "id": 6885,
+                    "nombre": "Gary Carr"
+                },
+                {
+                    "id": 6886,
+                    "nombre": "Jack Reynor"
+                },
+                {
+                    "id": 221,
+                    "nombre": "JJ Feild"
+                }
+            ],
+            "productora": [
+                {
+                    "id": 218,
+                    "tipo": "productora",
+                    "nombre": "Amazon Studios"
+                },
+                {
+                    "id": 94,
+                    "tipo": "productora",
+                    "nombre": "Warner Bros"
+                }
+            ],
+            "imagen_secundaria": "https://www.picta.cu/imagen/img_lb20OtD.jpeg",
+            "genero": [
+                {
+                    "id": 17,
+                    "tipo": "ci",
+                    "nombre": "Ciencia ficción"
+                },
+                {
+                    "id": 2,
+                    "tipo": "ci",
+                    "nombre": "Drama"
+                },
+                {
+                    "id": 11,
+                    "tipo": "ci",
+                    "nombre": "Thriller"
+                }
+            ],
+            "canal": {
+                "id": 3540,
+                "nombre": "D'Series",
+                "tipo": "canal",
+                "slug_url": "d-series-2020-05-24-00-10-02-028160",
+                "publicado": true,
+                "eliminado": false,
+                "internacional": false,
+                "usuario": {
+                    "id": 871,
+                    "username": "Hellsing"
+                },
+                "usuarios_asociados": [
+                    {
+                        "id": 2030,
+                        "username": "AltF4-Corporativo"
+                    },
+                    {
+                        "id": 871,
+                        "username": "Hellsing"
+                    },
+                    {
+                        "id": 91,
+                        "username": "luisenriquez"
+                    }
+                ]
+            },
+            "prioridad": 1,
+            "last_update": "2022-11-12T12:24:30.130157",
+            "nr": true
+        },
+        {
+            "pelser_id": 1261,
+            "nombre": "Blockbuster",
+            "cantidad_temporadas": 1,
+            "cantidad_capitulos": 10,
+            "ano": 2022,
+            "pais": "Estados Unidos",
+            "director": [
+                {
+                    "id": 6831,
+                    "nombre": "Payman Benz"
+                },
+                {
+                    "id": 6830,
+                    "nombre": "Vanessa Ramos"
+                }
+            ],
+            "guion": [
+                {
+                    "id": 6832,
+                    "nombre": "Jackie Clarke"
+                },
+                {
+                    "id": 6830,
+                    "nombre": "Vanessa Ramos"
+                }
+            ],
+            "musica": [
+                {
+                    "id": 6833,
+                    "nombre": "Jesse Novak"
+                }
+            ],
+            "fotografia": [
+                {
+                    "id": 6834,
+                    "nombre": "Rick Page"
+                }
+            ],
+            "reparto": [
+                {
+                    "id": 6839,
+                    "nombre": "J.B. Smoove"
+                },
+                {
+                    "id": 6838,
+                    "nombre": "Madeleine Arthur"
+                },
+                {
+                    "id": 4008,
+                    "nombre": "Melissa Fumero"
+                },
+                {
+                    "id": 6837,
+                    "nombre": "Olga Merediz"
+                },
+                {
+                    "id": 6835,
+                    "nombre": "Randall Park"
+                },
+                {
+                    "id": 6836,
+                    "nombre": "Tyler Alvarez"
+                }
+            ],
+            "productora": [
+                {
+                    "id": 1001,
+                    "tipo": "productora",
+                    "nombre": "Universal Pictures Television"
+                }
+            ],
+            "imagen_secundaria": "https://www.picta.cu/imagen/img_3Sm6VRd.jpeg",
+            "genero": [
+                {
+                    "id": 3,
+                    "tipo": "ci",
+                    "nombre": "Comedia"
+                }
+            ],
+            "canal": {
+                "id": 3540,
+                "nombre": "D'Series",
+                "tipo": "canal",
+                "slug_url": "d-series-2020-05-24-00-10-02-028160",
+                "publicado": true,
+                "eliminado": false,
+                "internacional": false,
+                "usuario": {
+                    "id": 871,
+                    "username": "Hellsing"
+                },
+                "usuarios_asociados": [
+                    {
+                        "id": 2030,
+                        "username": "AltF4-Corporativo"
+                    },
+                    {
+                        "id": 871,
+                        "username": "Hellsing"
+                    },
+                    {
+                        "id": 91,
+                        "username": "luisenriquez"
+                    }
+                ]
+            },
+            "prioridad": 1,
+            "last_update": "2022-11-08T18:41:48.635257",
+            "nr": true
+        },
+        {
+            "pelser_id": 1260,
+            "nombre": "Sean eternos: Campeones de América",
+            "cantidad_temporadas": 1,
+            "cantidad_capitulos": 3,
+            "ano": 2022,
+            "pais": "Argentina",
+            "director": [
+                {
+                    "id": 6820,
+                    "nombre": "Juan Baldana"
+                }
+            ],
+            "guion": [
+                {
+                    "id": 1022,
+                    "nombre": "Desconocido"
+                }
+            ],
+            "musica": [
+                {
+                    "id": 1022,
+                    "nombre": "Desconocido"
+                }
+            ],
+            "fotografia": [
+                {
+                    "id": 1022,
+                    "nombre": "Desconocido"
+                }
+            ],
+            "reparto": [
+                {
+                    "id": 6823,
+                    "nombre": "Ángel Di María"
+                },
+                {
+                    "id": 6829,
+                    "nombre": "Cesc Fàbregas"
+                },
+                {
+                    "id": 6827,
+                    "nombre": "Daniel Alves"
+                },
+                {
+                    "id": 6821,
+                    "nombre": "Leo Messi"
+                },
+                {
+                    "id": 6822,
+                    "nombre": "Lionel Scaloni"
+                },
+                {
+                    "id": 5972,
+                    "nombre": "Neymar Jr"
+                },
+                {
+                    "id": 6824,
+                    "nombre": "Rodrigo de Paul"
+                },
+                {
+                    "id": 6826,
+                    "nombre": "Ronaldinho"
+                },
+                {
+                    "id": 6828,
+                    "nombre": "Xavi Hernández"
+                }
+            ],
+            "productora": [
+                {
+                    "id": 1341,
+                    "tipo": "productora",
+                    "nombre": "Pegsa Group"
+                }
+            ],
+            "imagen_secundaria": "https://www.picta.cu/imagen/img_NbehKSO.jpeg",
+            "genero": [
+                {
+                    "id": 18,
+                    "tipo": "ci",
+                    "nombre": "Deportivo"
+                },
+                {
+                    "id": 84,
+                    "tipo": "ci",
+                    "nombre": "Serie Documental"
+                }
+            ],
+            "canal": {
+                "id": 3540,
+                "nombre": "D'Series",
+                "tipo": "canal",
+                "slug_url": "d-series-2020-05-24-00-10-02-028160",
+                "publicado": true,
+                "eliminado": false,
+                "internacional": false,
+                "usuario": {
+                    "id": 871,
+                    "username": "Hellsing"
+                },
+                "usuarios_asociados": [
+                    {
+                        "id": 2030,
+                        "username": "AltF4-Corporativo"
+                    },
+                    {
+                        "id": 871,
+                        "username": "Hellsing"
+                    },
+                    {
+                        "id": 91,
+                        "username": "luisenriquez"
+                    }
+                ]
+            },
+            "prioridad": 1,
+            "last_update": "2022-11-04T12:19:32.735383",
+            "nr": true
+        },
+        {
+            "pelser_id": 1257,
+            "nombre": "Star Wars: Tales of the Jedi",
+            "cantidad_temporadas": 1,
+            "cantidad_capitulos": 12,
+            "ano": 2022,
+            "pais": "Estados Unidos",
+            "director": [
+                {
+                    "id": 1620,
+                    "nombre": "Dave Filoni"
+                }
+            ],
+            "guion": [
+                {
+                    "id": 1620,
+                    "nombre": "Dave Filoni"
+                }
+            ],
+            "musica": [
+                {
+                    "id": 2561,
+                    "nombre": "Kevin Kiner"
+                }
+            ],
+            "fotografia": [
+                {
+                    "id": 994,
+                    "nombre": "Animación"
+                }
+            ],
+            "reparto": [
+                {
+                    "id": 994,
+                    "nombre": "Animación"
+                }
+            ],
+            "productora": [
+                {
+                    "id": 243,
+                    "tipo": "productora",
+                    "nombre": "Disney+"
+                },
+                {
+                    "id": 75,
+                    "tipo": "productora",
+                    "nombre": "Lucasfilm"
+                }
+            ],
+            "imagen_secundaria": "https://www.picta.cu/imagen/img_bJVlIU0.jpeg",
+            "genero": [
+                {
+                    "id": 19,
+                    "tipo": "ci",
+                    "nombre": "Animación"
+                },
+                {
+                    "id": 17,
+                    "tipo": "ci",
+                    "nombre": "Ciencia ficción"
+                }
+            ],
+            "canal": {
+                "id": 1767,
+                "nombre": "Canal USB",
+                "tipo": "canal",
+                "slug_url": "canal-usb-2019-09-16-11-55-07-269205",
+                "publicado": true,
+                "eliminado": false,
+                "internacional": false,
+                "usuario": {
+                    "id": 1,
+                    "username": "admin"
+                },
+                "usuarios_asociados": [
+                    {
+                        "id": 230,
+                        "username": "LEduardoD"
+                    }
+                ]
+            },
+            "prioridad": 1,
+            "last_update": "2022-10-26T15:36:23.560230",
+            "nr": true
+        },
+        {
+            "pelser_id": 1256,
+            "nombre": "Mob Psycho 100",
+            "cantidad_temporadas": 3,
+            "cantidad_capitulos": 6,
+            "ano": 2016,
+            "pais": "Japón",
+            "director": [
+                {
+                    "id": 6818,
+                    "nombre": "Yuzuru Tachikawa"
+                }
+            ],
+            "guion": [
+                {
+                    "id": 1900,
+                    "nombre": "Hiroshi Seko"
+                }
+            ],
+            "musica": [
+                {
+                    "id": 807,
+                    "nombre": "Kenji Kawai"
+                }
+            ],
+            "fotografia": [
+                {
+                    "id": 994,
+                    "nombre": "Animación"
+                }
+            ],
+            "reparto": [
+                {
+                    "id": 994,
+                    "nombre": "Animación"
+                }
+            ],
+            "productora": [
+                {
+                    "id": 1229,
+                    "tipo": "productora",
+                    "nombre": "BONES"
+                }
+            ],
+            "imagen_secundaria": "https://www.picta.cu/imagen/img_1ggl3Ww.jpeg",
+            "genero": [
+                {
+                    "id": 92,
+                    "tipo": "ci",
+                    "nombre": "Anime"
+                },
+                {
+                    "id": 12,
+                    "tipo": "ci",
+                    "nombre": "Fantasía"
+                }
+            ],
+            "canal": {
+                "id": 2626,
+                "nombre": "Anime",
+                "tipo": "canal",
+                "slug_url": "anime-2020-03-24-21-44-37-293099",
+                "publicado": true,
+                "eliminado": false,
+                "internacional": false,
+                "usuario": {
+                    "id": 1257,
+                    "username": "radmin"
+                },
+                "usuarios_asociados": [
+                    {
+                        "id": 18132,
+                        "username": "AltF4"
+                    },
+                    {
+                        "id": 871,
+                        "username": "Hellsing"
+                    }
+                ]
+            },
+            "prioridad": 1,
+            "last_update": "2022-11-09T15:33:33.505847",
+            "nr": true
+        },
+        {
+            "pelser_id": 1255,
+            "nombre": "Fumetsu no Anata e",
+            "cantidad_temporadas": 2,
+            "cantidad_capitulos": 23,
+            "ano": 2021,
+            "pais": "Japón",
+            "director": [
+                {
+                    "id": 3843,
+                    "nombre": "Masahiko Murata"
+                }
+            ],
+            "guion": [
+                {
+                    "id": 6817,
+                    "nombre": "Shinzo Fujita"
+                }
+            ],
+            "musica": [
+                {
+                    "id": 1022,
+                    "nombre": "Desconocido"
+                }
+            ],
+            "fotografia": [
+                {
+                    "id": 994,
+                    "nombre": "Animación"
+                }
+            ],
+            "reparto": [
+                {
+                    "id": 994,
+                    "nombre": "Animación"
+                }
+            ],
+            "productora": [
+                {
+                    "id": 675,
+                    "tipo": "productora",
+                    "nombre": "Brain's Base"
+                }
+            ],
+            "imagen_secundaria": "https://www.picta.cu/imagen/img_6kkI5rq.jpeg",
+            "genero": [
+                {
+                    "id": 92,
+                    "tipo": "ci",
+                    "nombre": "Anime"
+                },
+                {
+                    "id": 6,
+                    "tipo": "ci",
+                    "nombre": "Aventura"
+                },
+                {
+                    "id": 2,
+                    "tipo": "ci",
+                    "nombre": "Drama"
+                }
+            ],
+            "canal": {
+                "id": 2626,
+                "nombre": "Anime",
+                "tipo": "canal",
+                "slug_url": "anime-2020-03-24-21-44-37-293099",
+                "publicado": true,
+                "eliminado": false,
+                "internacional": false,
+                "usuario": {
+                    "id": 1257,
+                    "username": "radmin"
+                },
+                "usuarios_asociados": [
+                    {
+                        "id": 18132,
+                        "username": "AltF4"
+                    },
+                    {
+                        "id": 871,
+                        "username": "Hellsing"
+                    }
+                ]
+            },
+            "prioridad": 1,
+            "last_update": "2022-11-07T15:19:29.186248",
+            "nr": true
+        },
+        {
+            "pelser_id": 1253,
+            "nombre": "Archivo 81",
+            "cantidad_temporadas": 1,
+            "cantidad_capitulos": 16,
+            "ano": 2022,
+            "pais": "Estados Unidos",
+            "director": [
+                {
+                    "id": 6810,
+                    "nombre": "Aaron Moorhead"
+                },
+                {
+                    "id": 6811,
+                    "nombre": "Haifaa Al Mansour"
+                },
+                {
+                    "id": 6809,
+                    "nombre": "Justin Benson"
+                },
+                {
+                    "id": 6808,
+                    "nombre": "Rebecca Thomas"
+                }
+            ],
+            "guion": [
+                {
+                    "id": 1022,
+                    "nombre": "Desconocido"
+                }
+            ],
+            "musica": [
+                {
+                    "id": 1022,
+                    "nombre": "Desconocido"
+                }
+            ],
+            "fotografia": [
+                {
+                    "id": 1022,
+                    "nombre": "Desconocido"
+                }
+            ],
+            "reparto": [
+                {
+                    "id": 6801,
+                    "nombre": "Ariana Neal"
+                },
+                {
+                    "id": 6797,
+                    "nombre": "Dina Shihabi"
+                },
+                {
+                    "id": 6799,
+                    "nombre": "Evan Jonigkeit"
+                },
+                {
+                    "id": 6803,
+                    "nombre": "Georgina Haig"
+                },
+                {
+                    "id": 6805,
+                    "nombre": "Jacqueline Antaramian"
+                },
+                {
+                    "id": 6807,
+                    "nombre": "Jaxon Rose Moore"
+                },
+                {
+                    "id": 6800,
+                    "nombre": "Julia Chan"
+                },
+                {
+                    "id": 6804,
+                    "nombre": "Kristen Griffith"
+                },
+                {
+                    "id": 2033,
+                    "nombre": "Mamoudou Athie"
+                },
+                {
+                    "id": 6802,
+                    "nombre": "Martin Donovan"
+                },
+                {
+                    "id": 6806,
+                    "nombre": "Martin Sola"
+                },
+                {
+                    "id": 6798,
+                    "nombre": "Matt McGorry"
+                }
+            ],
+            "productora": [
+                {
+                    "id": 1332,
+                    "tipo": "productora",
+                    "nombre": "Amanda Kay Price"
+                },
+                {
+                    "id": 1331,
+                    "tipo": "productora",
+                    "nombre": "\t Bobak Esfarjani"
+                }
+            ],
+            "imagen_secundaria": "https://www.picta.cu/imagen/img_GghNy11.jpeg",
+            "genero": [
+                {
+                    "id": 2,
+                    "tipo": "ci",
+                    "nombre": "Drama"
+                },
+                {
+                    "id": 69,
+                    "tipo": "ci",
+                    "nombre": "Ficción"
+                },
+                {
+                    "id": 96,
+                    "tipo": "ci",
+                    "nombre": "Horror"
+                },
+                {
+                    "id": 83,
+                    "tipo": "ci",
+                    "nombre": "Misterio"
+                },
+                {
+                    "id": 7,
+                    "tipo": "ci",
+                    "nombre": "Terror"
+                }
+            ],
+            "canal": {
+                "id": 3540,
+                "nombre": "D'Series",
+                "tipo": "canal",
+                "slug_url": "d-series-2020-05-24-00-10-02-028160",
+                "publicado": true,
+                "eliminado": false,
+                "internacional": false,
+                "usuario": {
+                    "id": 871,
+                    "username": "Hellsing"
+                },
+                "usuarios_asociados": [
+                    {
+                        "id": 2030,
+                        "username": "AltF4-Corporativo"
+                    },
+                    {
+                        "id": 871,
+                        "username": "Hellsing"
+                    },
+                    {
+                        "id": 91,
+                        "username": "luisenriquez"
+                    }
+                ]
+            },
+            "prioridad": 1,
+            "last_update": "2022-10-31T11:10:24.318091",
+            "nr": true
+        },
+        {
+            "pelser_id": 1252,
+            "nombre": "Chainsaw Man",
+            "cantidad_temporadas": 1,
+            "cantidad_capitulos": 5,
+            "ano": 2022,
+            "pais": "Japón",
+            "director": [
+                {
+                    "id": 6795,
+                    "nombre": "Ryū Nakayama"
+                }
+            ],
+            "guion": [
+                {
+                    "id": 1900,
+                    "nombre": "Hiroshi Seko"
+                }
+            ],
+            "musica": [
+                {
+                    "id": 6796,
+                    "nombre": "Kensuke Ushio"
+                }
+            ],
+            "fotografia": [
+                {
+                    "id": 994,
+                    "nombre": "Animación"
+                }
+            ],
+            "reparto": [
+                {
+                    "id": 994,
+                    "nombre": "Animación"
+                }
+            ],
+            "productora": [
+                {
+                    "id": 300,
+                    "tipo": "productora",
+                    "nombre": "MAPPA"
+                }
+            ],
+            "imagen_secundaria": "https://www.picta.cu/imagen/img_DgXTGJp.jpeg",
+            "genero": [
+                {
+                    "id": 92,
+                    "tipo": "ci",
+                    "nombre": "Anime"
+                },
+                {
+                    "id": 12,
+                    "tipo": "ci",
+                    "nombre": "Fantasía"
+                },
+                {
+                    "id": 7,
+                    "tipo": "ci",
+                    "nombre": "Terror"
+                }
+            ],
+            "canal": {
+                "id": 2626,
+                "nombre": "Anime",
+                "tipo": "canal",
+                "slug_url": "anime-2020-03-24-21-44-37-293099",
+                "publicado": true,
+                "eliminado": false,
+                "internacional": false,
+                "usuario": {
+                    "id": 1257,
+                    "username": "radmin"
+                },
+                "usuarios_asociados": [
+                    {
+                        "id": 18132,
+                        "username": "AltF4"
+                    },
+                    {
+                        "id": 871,
+                        "username": "Hellsing"
+                    }
+                ]
+            },
+            "prioridad": 1,
+            "last_update": "2022-11-08T14:00:22.940493",
+            "nr": true
+        },
+        {
+            "pelser_id": 1251,
+            "nombre": "DAHMER - Monstruo: La historia de Jeffrey Dahmer",
+            "cantidad_temporadas": 1,
+            "cantidad_capitulos": 20,
+            "ano": 2022,
+            "pais": "Estados Unidos",
+            "director": [
+                {
+                    "id": 2517,
+                    "nombre": "Ryan Murphy"
+                }
+            ],
+            "guion": [
+                {
+                    "id": 1022,
+                    "nombre": "Desconocido"
+                }
+            ],
+            "musica": [
+                {
+                    "id": 4145,
+                    "nombre": "desconocido"
+                }
+            ],
+            "fotografia": [
+                {
+                    "id": 1022,
+                    "nombre": "Desconocido"
+                }
+            ],
+            "reparto": [
+                {
+                    "id": 6791,
+                    "nombre": "Evan Peters"
+                },
+                {
+                    "id": 6794,
+                    "nombre": "Michael Learned"
+                },
+                {
+                    "id": 6793,
+                    "nombre": "Molly Ringwald"
+                },
+                {
+                    "id": 6792,
+                    "nombre": "Niecy Nash"
+                },
+                {
+                    "id": 2196,
+                    "nombre": "Richard Jenkins"
+                }
+            ],
+            "productora": [
+                {
+                    "id": 1330,
+                    "tipo": "productora",
+                    "nombre": "Ryan Murphy Productions"
+                }
+            ],
+            "imagen_secundaria": "https://www.picta.cu/imagen/img_dc7Ka6Q.jpeg",
+            "genero": [
+                {
+                    "id": 28,
+                    "tipo": "ci",
+                    "nombre": "Cine biográfico"
+                },
+                {
+                    "id": 2,
+                    "tipo": "ci",
+                    "nombre": "Drama"
+                },
+                {
+                    "id": 11,
+                    "tipo": "ci",
+                    "nombre": "Thriller"
+                }
+            ],
+            "canal": {
+                "id": 3540,
+                "nombre": "D'Series",
+                "tipo": "canal",
+                "slug_url": "d-series-2020-05-24-00-10-02-028160",
+                "publicado": true,
+                "eliminado": false,
+                "internacional": false,
+                "usuario": {
+                    "id": 871,
+                    "username": "Hellsing"
+                },
+                "usuarios_asociados": [
+                    {
+                        "id": 2030,
+                        "username": "AltF4-Corporativo"
+                    },
+                    {
+                        "id": 871,
+                        "username": "Hellsing"
+                    },
+                    {
+                        "id": 91,
+                        "username": "luisenriquez"
+                    }
+                ]
+            },
+            "prioridad": 1,
+            "last_update": "2022-11-08T00:20:18.861222",
+            "nr": true
+        },
+        {
+            "pelser_id": 1249,
+            "nombre": "Bleach",
+            "cantidad_temporadas": 1,
+            "cantidad_capitulos": 5,
+            "ano": 2022,
+            "pais": "Japón",
+            "director": [
+                {
+                    "id": 2082,
+                    "nombre": "Tomohisa Taguchi"
+                }
+            ],
+            "guion": [
+                {
+                    "id": 2082,
+                    "nombre": "Tomohisa Taguchi"
+                }
+            ],
+            "musica": [
+                {
+                    "id": 6786,
+                    "nombre": "Shirô Sagisu"
+                }
+            ],
+            "fotografia": [
+                {
+                    "id": 994,
+                    "nombre": "Animación"
+                }
+            ],
+            "reparto": [
+                {
+                    "id": 994,
+                    "nombre": "Animación"
+                }
+            ],
+            "productora": [
+                {
+                    "id": 227,
+                    "tipo": "productora",
+                    "nombre": "Studio Pierrot"
+                }
+            ],
+            "imagen_secundaria": "https://www.picta.cu/imagen/img_tgmWbe2.jpeg",
+            "genero": [
+                {
+                    "id": 5,
+                    "tipo": "ci",
+                    "nombre": "Acción"
+                },
+                {
+                    "id": 92,
+                    "tipo": "ci",
+                    "nombre": "Anime"
+                },
+                {
+                    "id": 6,
+                    "tipo": "ci",
+                    "nombre": "Aventura"
+                },
+                {
+                    "id": 12,
+                    "tipo": "ci",
+                    "nombre": "Fantasía"
+                }
+            ],
+            "canal": {
+                "id": 2626,
+                "nombre": "Anime",
+                "tipo": "canal",
+                "slug_url": "anime-2020-03-24-21-44-37-293099",
+                "publicado": true,
+                "eliminado": false,
+                "internacional": false,
+                "usuario": {
+                    "id": 1257,
+                    "username": "radmin"
+                },
+                "usuarios_asociados": [
+                    {
+                        "id": 18132,
+                        "username": "AltF4"
+                    },
+                    {
+                        "id": 871,
+                        "username": "Hellsing"
+                    }
+                ]
+            },
+            "prioridad": 1,
+            "last_update": "2022-11-07T15:25:08.323485",
+            "nr": true
+        },
+        {
+            "pelser_id": 1248,
+            "nombre": "Breaking Bad",
+            "cantidad_temporadas": 5,
+            "cantidad_capitulos": 22,
+            "ano": 2008,
+            "pais": "Estados Unidos",
+            "director": [
+                {
+                    "id": 6785,
+                    "nombre": "Vince Gilligan"
+                }
+            ],
+            "guion": [
+                {
+                    "id": 6785,
+                    "nombre": "Vince Gilligan"
+                }
+            ],
+            "musica": [
+                {
+                    "id": 1022,
+                    "nombre": "Desconocido"
+                }
+            ],
+            "fotografia": [
+                {
+                    "id": 1022,
+                    "nombre": "Desconocido"
+                }
+            ],
+            "reparto": [
+                {
+                    "id": 2484,
+                    "nombre": "Aaron Paul"
+                },
+                {
+                    "id": 6769,
+                    "nombre": "Anna Gunn"
+                },
+                {
+                    "id": 6771,
+                    "nombre": "Betsy Brandt"
+                },
+                {
+                    "id": 3584,
+                    "nombre": "Bob Odenkirk"
+                },
+                {
+                    "id": 1408,
+                    "nombre": "Bryan Cranston"
+                },
+                {
+                    "id": 6770,
+                    "nombre": "Dean Norris"
+                },
+                {
+                    "id": 6773,
+                    "nombre": "Jonathan Banks"
+                },
+                {
+                    "id": 6772,
+                    "nombre": "RJ Mitte"
+                }
+            ],
+            "productora": [
+                {
+                    "id": 1314,
+                    "tipo": "productora",
+                    "nombre": "Vince Gilligan"
+                }
+            ],
+            "imagen_secundaria": "https://www.picta.cu/imagen/img_3xcLHGu.jpeg",
+            "genero": [
+                {
+                    "id": 5,
+                    "tipo": "ci",
+                    "nombre": "Acción"
+                },
+                {
+                    "id": 2,
+                    "tipo": "ci",
+                    "nombre": "Drama"
+                },
+                {
+                    "id": 10,
+                    "tipo": "ci",
+                    "nombre": "Suspenso"
+                },
+                {
+                    "id": 99,
+                    "tipo": "ci",
+                    "nombre": "Western"
+                }
+            ],
+            "canal": {
+                "id": 3540,
+                "nombre": "D'Series",
+                "tipo": "canal",
+                "slug_url": "d-series-2020-05-24-00-10-02-028160",
+                "publicado": true,
+                "eliminado": false,
+                "internacional": false,
+                "usuario": {
+                    "id": 871,
+                    "username": "Hellsing"
+                },
+                "usuarios_asociados": [
+                    {
+                        "id": 2030,
+                        "username": "AltF4-Corporativo"
+                    },
+                    {
+                        "id": 871,
+                        "username": "Hellsing"
+                    },
+                    {
+                        "id": 91,
+                        "username": "luisenriquez"
+                    }
+                ]
+            },
+            "prioridad": 1,
+            "last_update": "2022-11-03T10:35:50.751948",
+            "nr": true
+        },
+        {
+            "pelser_id": 1246,
+            "nombre": "Jóvenes altezas",
+            "cantidad_temporadas": 1,
+            "cantidad_capitulos": 18,
+            "ano": 2021,
+            "pais": "Suecia",
+            "director": [
+                {
+                    "id": 6765,
+                    "nombre": "Erika Calmeyer"
+                },
+                {
+                    "id": 6757,
+                    "nombre": "Rojda Sekersöz"
+                }
+            ],
+            "guion": [
+                {
+                    "id": 1022,
+                    "nombre": "Desconocido"
+                }
+            ],
+            "musica": [
+                {
+                    "id": 1022,
+                    "nombre": "Desconocido"
+                }
+            ],
+            "fotografia": [
+                {
+                    "id": 1022,
+                    "nombre": "Desconocido"
+                }
+            ],
+            "reparto": [
+                {
+                    "id": 6752,
+                    "nombre": "Edvin Ryding"
+                },
+                {
+                    "id": 6762,
+                    "nombre": "Frida Argento"
+                },
+                {
+                    "id": 6761,
+                    "nombre": "Malte Gårdinger"
+                },
+                {
+                    "id": 6763,
+                    "nombre": "Nikita Uggla"
+                },
+                {
+                    "id": 6753,
+                    "nombre": "Omar Rudberg"
+                }
+            ],
+            "productora": [
+                {
+                    "id": 1310,
+                    "tipo": "productora",
+                    "nombre": "Nexiko AB"
+                }
+            ],
+            "imagen_secundaria": "https://www.picta.cu/imagen/img_teDv8TB.jpeg",
+            "genero": [
+                {
+                    "id": 9,
+                    "tipo": "ci",
+                    "nombre": "Cine romántico"
+                },
+                {
+                    "id": 2,
+                    "tipo": "ci",
+                    "nombre": "Drama"
+                },
+                {
+                    "id": 98,
+                    "tipo": "ci",
+                    "nombre": "Novela"
+                }
+            ],
+            "canal": {
+                "id": 3540,
+                "nombre": "D'Series",
+                "tipo": "canal",
+                "slug_url": "d-series-2020-05-24-00-10-02-028160",
+                "publicado": true,
+                "eliminado": false,
+                "internacional": false,
+                "usuario": {
+                    "id": 871,
+                    "username": "Hellsing"
+                },
+                "usuarios_asociados": [
+                    {
+                        "id": 2030,
+                        "username": "AltF4-Corporativo"
+                    },
+                    {
+                        "id": 871,
+                        "username": "Hellsing"
+                    },
+                    {
+                        "id": 91,
+                        "username": "luisenriquez"
+                    }
+                ]
+            },
+            "prioridad": 1,
+            "last_update": "2022-11-08T15:50:05.386830",
+            "nr": true
+        },
+        {
+            "pelser_id": 1245,
+            "nombre": "Andor",
+            "cantidad_temporadas": 1,
+            "cantidad_capitulos": 11,
+            "ano": 2022,
+            "pais": "Estados Unidos",
+            "director": [
+                {
+                    "id": 6760,
+                    "nombre": "Tony Gilroy"
+                }
+            ],
+            "guion": [
+                {
+                    "id": 6760,
+                    "nombre": "Tony Gilroy"
+                }
+            ],
+            "musica": [
+                {
+                    "id": 4087,
+                    "nombre": "Nicholas Britell"
+                }
+            ],
+            "fotografia": [
+                {
+                    "id": 6759,
+                    "nombre": "Adriano Goldman"
+                }
+            ],
+            "reparto": [
+                {
+                    "id": 826,
+                    "nombre": "Adria Arjona"
+                },
+                {
+                    "id": 2721,
+                    "nombre": "Alan Tudyk"
+                },
+                {
+                    "id": 726,
+                    "nombre": "Diego Luna"
+                }
+            ],
+            "productora": [
+                {
+                    "id": 1313,
+                    "tipo": "productora",
+                    "nombre": "Disney +"
+                }
+            ],
+            "imagen_secundaria": "https://www.picta.cu/imagen/img_9MnZskF.jpeg",
+            "genero": [
+                {
+                    "id": 6,
+                    "tipo": "ci",
+                    "nombre": "Aventura"
+                },
+                {
+                    "id": 17,
+                    "tipo": "ci",
+                    "nombre": "Ciencia ficción"
+                },
+                {
+                    "id": 12,
+                    "tipo": "ci",
+                    "nombre": "Fantasía"
+                }
+            ],
+            "canal": {
+                "id": 1767,
+                "nombre": "Canal USB",
+                "tipo": "canal",
+                "slug_url": "canal-usb-2019-09-16-11-55-07-269205",
+                "publicado": true,
+                "eliminado": false,
+                "internacional": false,
+                "usuario": {
+                    "id": 1,
+                    "username": "admin"
+                },
+                "usuarios_asociados": [
+                    {
+                        "id": 230,
+                        "username": "LEduardoD"
+                    }
+                ]
+            },
+            "prioridad": 1,
+            "last_update": "2022-11-09T09:56:18.773298",
+            "nr": true
+        },
+        {
+            "pelser_id": 1232,
+            "nombre": "El señor de los anillos: Los anillos de poder",
+            "cantidad_temporadas": 1,
+            "cantidad_capitulos": 9,
+            "ano": 2022,
+            "pais": "Estados Unidos",
+            "director": [
+                {
+                    "id": 6726,
+                    "nombre": "Patrick McKay"
+                }
+            ],
+            "guion": [
+                {
+                    "id": 6725,
+                    "nombre": "John D. Payne"
+                }
+            ],
+            "musica": [
+                {
+                    "id": 617,
+                    "nombre": "Bear McCreary"
+                }
+            ],
+            "fotografia": [
+                {
+                    "id": 2044,
+                    "nombre": "Aaron Morton"
+                }
+            ],
+            "reparto": [
+                {
+                    "id": 6724,
+                    "nombre": "Ismael Cruz Cordova"
+                },
+                {
+                    "id": 6723,
+                    "nombre": "Markella Kavenagh"
+                },
+                {
+                    "id": 6722,
+                    "nombre": "Morfydd Clark"
+                },
+                {
+                    "id": 6207,
+                    "nombre": "Robert Aramayo"
+                }
+            ],
+            "productora": [
+                {
+                    "id": 218,
+                    "tipo": "productora",
+                    "nombre": "Amazon Studios"
+                }
+            ],
+            "imagen_secundaria": "https://www.picta.cu/imagen/img_sL5ba1T.jpeg",
+            "genero": [
+                {
+                    "id": 6,
+                    "tipo": "ci",
+                    "nombre": "Aventura"
+                },
+                {
+                    "id": 17,
+                    "tipo": "ci",
+                    "nombre": "Ciencia ficción"
+                },
+                {
+                    "id": 12,
+                    "tipo": "ci",
+                    "nombre": "Fantasía"
+                }
+            ],
+            "canal": {
+                "id": 1767,
+                "nombre": "Canal USB",
+                "tipo": "canal",
+                "slug_url": "canal-usb-2019-09-16-11-55-07-269205",
+                "publicado": true,
+                "eliminado": false,
+                "internacional": false,
+                "usuario": {
+                    "id": 1,
+                    "username": "admin"
+                },
+                "usuarios_asociados": [
+                    {
+                        "id": 230,
+                        "username": "LEduardoD"
+                    }
+                ]
+            },
+            "prioridad": 1,
+            "last_update": "2022-10-18T12:55:24.693822",
+            "nr": true
+        },
+        {
+            "pelser_id": 1231,
+            "nombre": "Band of Brothers",
+            "cantidad_temporadas": 1,
+            "cantidad_capitulos": 20,
+            "ano": 2001,
+            "pais": "Estados Unidos",
+            "director": [
+                {
+                    "id": 6721,
+                    "nombre": "David Frankel"
+                },
+                {
+                    "id": 6720,
+                    "nombre": "Stephen Ambrose"
+                },
+                {
+                    "id": 1069,
+                    "nombre": "Tom Hanks"
+                }
+            ],
+            "guion": [
+                {
+                    "id": 6719,
+                    "nombre": "Erik Jendresen"
+                },
+                {
+                    "id": 1069,
+                    "nombre": "Tom Hanks"
+                }
+            ],
+            "musica": [
+                {
+                    "id": 3700,
+                    "nombre": "Michael Kamen"
+                }
+            ],
+            "fotografia": [
+                {
+                    "id": 6718,
+                    "nombre": "Rick Gomez"
+                }
+            ],
+            "reparto": [
+                {
+                    "id": 6716,
+                    "nombre": "Damian Lewis"
+                },
+                {
+                    "id": 6718,
+                    "nombre": "Rick Gomez"
+                },
+                {
+                    "id": 6717,
+                    "nombre": "Ron Livingston"
+                }
+            ],
+            "productora": [
+                {
+                    "id": 1092,
+                    "tipo": "productora",
+                    "nombre": "Steven Spielberg"
+                },
+                {
+                    "id": 1296,
+                    "tipo": "productora",
+                    "nombre": "Tom Hanks"
+                }
+            ],
+            "imagen_secundaria": "https://www.picta.cu/imagen/img_AxaCiw5.jpeg",
+            "genero": [
+                {
+                    "id": 5,
+                    "tipo": "ci",
+                    "nombre": "Acción"
+                },
+                {
+                    "id": 15,
+                    "tipo": "ci",
+                    "nombre": "Bélico"
+                }
+            ],
+            "canal": {
+                "id": 1767,
+                "nombre": "Canal USB",
+                "tipo": "canal",
+                "slug_url": "canal-usb-2019-09-16-11-55-07-269205",
+                "publicado": true,
+                "eliminado": false,
+                "internacional": false,
+                "usuario": {
+                    "id": 1,
+                    "username": "admin"
+                },
+                "usuarios_asociados": [
+                    {
+                        "id": 230,
+                        "username": "LEduardoD"
+                    }
+                ]
+            },
+            "prioridad": 1,
+            "last_update": "2022-09-01T14:32:16.192985",
+            "nr": true
+        },
+        {
+            "pelser_id": 1229,
+            "nombre": "The Cuphead Show!",
+            "cantidad_temporadas": 2,
+            "cantidad_capitulos": 13,
+            "ano": 2022,
+            "pais": "EE.UU.",
+            "director": [
+                {
+                    "id": 1022,
+                    "nombre": "Desconocido"
+                }
+            ],
+            "guion": [
+                {
+                    "id": 4145,
+                    "nombre": "desconocido"
+                }
+            ],
+            "musica": [
+                {
+                    "id": 1022,
+                    "nombre": "Desconocido"
+                }
+            ],
+            "fotografia": [
+                {
+                    "id": 1022,
+                    "nombre": "Desconocido"
+                }
+            ],
+            "reparto": [
+                {
+                    "id": 1022,
+                    "nombre": "Desconocido"
+                }
+            ],
+            "productora": [
+                {
+                    "id": 527,
+                    "tipo": "productora",
+                    "nombre": "Netflix Animation"
+                }
+            ],
+            "imagen_secundaria": "https://www.picta.cu/imagen/img_9WucTPJ.jpeg",
+            "genero": [
+                {
+                    "id": 19,
+                    "tipo": "ci",
+                    "nombre": "Animación"
+                },
+                {
+                    "id": 3,
+                    "tipo": "ci",
+                    "nombre": "Comedia"
+                }
+            ],
+            "canal": {
+                "id": 16314,
+                "nombre": "OmenTec",
+                "tipo": "canal",
+                "slug_url": "omentec-2021-06-01-16-31-15-241288",
+                "publicado": true,
+                "eliminado": false,
+                "internacional": false,
+                "usuario": {
+                    "id": 1,
+                    "username": "admin"
+                },
+                "usuarios_asociados": [
+                    {
+                        "id": 13869,
+                        "username": "MaikelSZ"
+                    }
+                ]
+            },
+            "prioridad": 1,
+            "last_update": "2022-09-11T13:21:15.724928",
+            "nr": true
+        },
+        {
+            "pelser_id": 1228,
+            "nombre": "She-Hulk: Abogada Hulka",
+            "cantidad_temporadas": 1,
+            "cantidad_capitulos": 10,
+            "ano": 2022,
+            "pais": "Estados Unidos",
+            "director": [
+                {
+                    "id": 6713,
+                    "nombre": "Jessica Gao"
+                }
+            ],
+            "guion": [
+                {
+                    "id": 6713,
+                    "nombre": "Jessica Gao"
+                }
+            ],
+            "musica": [
+                {
+                    "id": 1203,
+                    "nombre": "Amie Doherty"
+                }
+            ],
+            "fotografia": [
+                {
+                    "id": 6712,
+                    "nombre": "Doug Chamberlain"
+                }
+            ],
+            "reparto": [
+                {
+                    "id": 6711,
+                    "nombre": "Jameela Jamil"
+                },
+                {
+                    "id": 2941,
+                    "nombre": "Mark Ruffalo"
+                },
+                {
+                    "id": 6710,
+                    "nombre": "Tatiana Maslany"
+                }
+            ],
+            "productora": [
+                {
+                    "id": 243,
+                    "tipo": "productora",
+                    "nombre": "Disney+"
+                },
+                {
+                    "id": 517,
+                    "tipo": "productora",
+                    "nombre": "Marvel Studios"
+                }
+            ],
+            "imagen_secundaria": "https://www.picta.cu/imagen/img_zwdA7aB.jpeg",
+            "genero": [
+                {
+                    "id": 5,
+                    "tipo": "ci",
+                    "nombre": "Acción"
+                },
+                {
+                    "id": 69,
+                    "tipo": "ci",
+                    "nombre": "Ficción"
+                }
+            ],
+            "canal": {
+                "id": 1767,
+                "nombre": "Canal USB",
+                "tipo": "canal",
+                "slug_url": "canal-usb-2019-09-16-11-55-07-269205",
+                "publicado": true,
+                "eliminado": false,
+                "internacional": false,
+                "usuario": {
+                    "id": 1,
+                    "username": "admin"
+                },
+                "usuarios_asociados": [
+                    {
+                        "id": 230,
+                        "username": "LEduardoD"
+                    }
+                ]
+            },
+            "prioridad": 1,
+            "last_update": "2022-10-18T10:17:58.476220",
+            "nr": true
+        },
+        {
+            "pelser_id": 1227,
+            "nombre": "House of the Dragon",
+            "cantidad_temporadas": 1,
+            "cantidad_capitulos": 10,
+            "ano": 2022,
+            "pais": "Estados Unidos",
+            "director": [
+                {
+                    "id": 6708,
+                    "nombre": "George R.R. Martin"
+                },
+                {
+                    "id": 5232,
+                    "nombre": "Miguel Sapochnik"
+                },
+                {
+                    "id": 3704,
+                    "nombre": "Ryan Condal"
+                }
+            ],
+            "guion": [
+                {
+                    "id": 6708,
+                    "nombre": "George R.R. Martin"
+                },
+                {
+                    "id": 3704,
+                    "nombre": "Ryan Condal"
+                }
+            ],
+            "musica": [
+                {
+                    "id": 2289,
+                    "nombre": "Ramin Djawadi"
+                }
+            ],
+            "fotografia": [
+                {
+                    "id": 5274,
+                    "nombre": "NO"
+                }
+            ],
+            "reparto": [
+                {
+                    "id": 2301,
+                    "nombre": "Matt Smith"
+                },
+                {
+                    "id": 6699,
+                    "nombre": "Milly Alcock"
+                },
+                {
+                    "id": 6698,
+                    "nombre": "Paddy Considine"
+                }
+            ],
+            "productora": [
+                {
+                    "id": 10,
+                    "tipo": "productora",
+                    "nombre": "HBO"
+                },
+                {
+                    "id": 219,
+                    "tipo": "productora",
+                    "nombre": "HBO Max"
+                }
+            ],
+            "imagen_secundaria": "https://www.picta.cu/imagen/img_IJqkugW.jpeg",
+            "genero": [
+                {
+                    "id": 5,
+                    "tipo": "ci",
+                    "nombre": "Acción"
+                },
+                {
+                    "id": 17,
+                    "tipo": "ci",
+                    "nombre": "Ciencia ficción"
+                },
+                {
+                    "id": 12,
+                    "tipo": "ci",
+                    "nombre": "Fantasía"
+                }
+            ],
+            "canal": {
+                "id": 1767,
+                "nombre": "Canal USB",
+                "tipo": "canal",
+                "slug_url": "canal-usb-2019-09-16-11-55-07-269205",
+                "publicado": true,
+                "eliminado": false,
+                "internacional": false,
+                "usuario": {
+                    "id": 1,
+                    "username": "admin"
+                },
+                "usuarios_asociados": [
+                    {
+                        "id": 230,
+                        "username": "LEduardoD"
+                    }
+                ]
+            },
+            "prioridad": 1,
+            "last_update": "2022-10-21T15:35:31.189623",
+            "nr": true
+        },
+        {
+            "pelser_id": 1226,
+            "nombre": "Neon Genesis Evangelion",
+            "cantidad_temporadas": 1,
+            "cantidad_capitulos": 26,
+            "ano": 2020,
+            "pais": "Japón",
+            "director": [
+                {
+                    "id": 6692,
+                    "nombre": "Hideaki Anno"
+                }
+            ],
+            "guion": [
+                {
+                    "id": 6692,
+                    "nombre": "Hideaki Anno"
+                }
+            ],
+            "musica": [
+                {
+                    "id": 4145,
+                    "nombre": "desconocido"
+                }
+            ],
+            "fotografia": [
+                {
+                    "id": 4145,
+                    "nombre": "desconocido"
+                }
+            ],
+            "reparto": [
+                {
+                    "id": 4145,
+                    "nombre": "desconocido"
+                }
+            ],
+            "productora": [
+                {
+                    "id": 921,
+                    "tipo": "productora",
+                    "nombre": "Gainax"
+                }
+            ],
+            "imagen_secundaria": "https://www.picta.cu/imagen/img_0e63wS9.jpeg",
+            "genero": [
+                {
+                    "id": 5,
+                    "tipo": "ci",
+                    "nombre": "Acción"
+                },
+                {
+                    "id": 19,
+                    "tipo": "ci",
+                    "nombre": "Animación"
+                },
+                {
+                    "id": 92,
+                    "tipo": "ci",
+                    "nombre": "Anime"
+                },
+                {
+                    "id": 97,
+                    "tipo": "ci",
+                    "nombre": "Catástrofe"
+                },
+                {
+                    "id": 17,
+                    "tipo": "ci",
+                    "nombre": "Ciencia ficción"
+                },
+                {
+                    "id": 69,
+                    "tipo": "ci",
+                    "nombre": "Ficción"
+                }
+            ],
+            "canal": {
+                "id": 16314,
+                "nombre": "OmenTec",
+                "tipo": "canal",
+                "slug_url": "omentec-2021-06-01-16-31-15-241288",
+                "publicado": true,
+                "eliminado": false,
+                "internacional": false,
+                "usuario": {
+                    "id": 1,
+                    "username": "admin"
+                },
+                "usuarios_asociados": [
+                    {
+                        "id": 13869,
+                        "username": "MaikelSZ"
+                    }
+                ]
+            },
+            "prioridad": 1,
+            "last_update": "2022-08-12T09:26:21.963221",
+            "nr": true
+        },
+        {
+            "pelser_id": 1225,
+            "nombre": "Yo soy Groot",
+            "cantidad_temporadas": 1,
+            "cantidad_capitulos": 5,
+            "ano": 2022,
+            "pais": "EEUU",
+            "director": [
+                {
+                    "id": 6696,
+                    "nombre": "Kirsten Lepore"
+                }
+            ],
+            "guion": [
+                {
+                    "id": 6696,
+                    "nombre": "Kirsten Lepore"
+                }
+            ],
+            "musica": [
+                {
+                    "id": 6697,
+                    "nombre": "Daniele Luppi"
+                }
+            ],
+            "fotografia": [
+                {
+                    "id": 994,
+                    "nombre": "Animación"
+                }
+            ],
+            "reparto": [
+                {
+                    "id": 994,
+                    "nombre": "Animación"
+                }
+            ],
+            "productora": [
+                {
+                    "id": 517,
+                    "tipo": "productora",
+                    "nombre": "Marvel Studios"
+                }
+            ],
+            "imagen_secundaria": "https://www.picta.cu/imagen/img_GRecLiO.jpeg",
+            "genero": [
+                {
+                    "id": 19,
+                    "tipo": "ci",
+                    "nombre": "Animación"
+                },
+                {
+                    "id": 6,
+                    "tipo": "ci",
+                    "nombre": "Aventura"
+                },
+                {
+                    "id": 17,
+                    "tipo": "ci",
+                    "nombre": "Ciencia ficción"
+                },
+                {
+                    "id": 3,
+                    "tipo": "ci",
+                    "nombre": "Comedia"
+                }
+            ],
+            "canal": {
+                "id": 3540,
+                "nombre": "D'Series",
+                "tipo": "canal",
+                "slug_url": "d-series-2020-05-24-00-10-02-028160",
+                "publicado": true,
+                "eliminado": false,
+                "internacional": false,
+                "usuario": {
+                    "id": 871,
+                    "username": "Hellsing"
+                },
+                "usuarios_asociados": [
+                    {
+                        "id": 2030,
+                        "username": "AltF4-Corporativo"
+                    },
+                    {
+                        "id": 871,
+                        "username": "Hellsing"
+                    },
+                    {
+                        "id": 91,
+                        "username": "luisenriquez"
+                    }
+                ]
+            },
+            "prioridad": 1,
+            "last_update": "2022-08-18T09:32:36.490840",
+            "nr": true
+        },
+        {
+            "pelser_id": 1224,
+            "nombre": "The Sandman",
+            "cantidad_temporadas": 1,
+            "cantidad_capitulos": 21,
+            "ano": 2022,
+            "pais": "Estados Unidos",
+            "director": [
+                {
+                    "id": 6695,
+                    "nombre": "Neil Gaiman"
+                }
+            ],
+            "guion": [
+                {
+                    "id": 2891,
+                    "nombre": "David S. Goyer"
+                }
+            ],
+            "musica": [
+                {
+                    "id": 1601,
+                    "nombre": "David Buckley"
+                }
+            ],
+            "fotografia": [
+                {
+                    "id": 6694,
+                    "nombre": "Will Baldy"
+                }
+            ],
+            "reparto": [
+                {
+                    "id": 6693,
+                    "nombre": "Tom Sturridge"
+                }
+            ],
+            "productora": [
+                {
+                    "id": 53,
+                    "tipo": "productora",
+                    "nombre": "Netflix"
+                },
+                {
+                    "id": 184,
+                    "tipo": "productora",
+                    "nombre": "Warner Bros."
+                }
+            ],
+            "imagen_secundaria": "https://www.picta.cu/imagen/img_pxXzOwP.jpeg",
+            "genero": [
+                {
+                    "id": 12,
+                    "tipo": "ci",
+                    "nombre": "Fantasía"
+                },
+                {
+                    "id": 7,
+                    "tipo": "ci",
+                    "nombre": "Terror"
+                }
+            ],
+            "canal": {
+                "id": 1767,
+                "nombre": "Canal USB",
+                "tipo": "canal",
+                "slug_url": "canal-usb-2019-09-16-11-55-07-269205",
+                "publicado": true,
+                "eliminado": false,
+                "internacional": false,
+                "usuario": {
+                    "id": 1,
+                    "username": "admin"
+                },
+                "usuarios_asociados": [
+                    {
+                        "id": 230,
+                        "username": "LEduardoD"
+                    }
+                ]
+            },
+            "prioridad": 1,
+            "last_update": "2022-08-22T12:30:55.924784",
+            "nr": true
+        },
+        {
+            "pelser_id": 1223,
+            "nombre": "Resident Evil",
+            "cantidad_temporadas": 1,
+            "cantidad_capitulos": 8,
+            "ano": 2022,
+            "pais": "EEUU",
+            "director": [
+                {
+                    "id": 6688,
+                    "nombre": "Andrew Dabb"
+                }
+            ],
+            "guion": [
+                {
+                    "id": 6688,
+                    "nombre": "Andrew Dabb"
+                }
+            ],
+            "musica": [
+                {
+                    "id": 1022,
+                    "nombre": "Desconocido"
+                }
+            ],
+            "fotografia": [
+                {
+                    "id": 1022,
+                    "nombre": "Desconocido"
+                }
+            ],
+            "reparto": [
+                {
+                    "id": 6691,
+                    "nombre": "Adeline Rudolph"
+                },
+                {
+                    "id": 6689,
+                    "nombre": "Ella Balinska"
+                },
+                {
+                    "id": 6690,
+                    "nombre": "Siena Agudong"
+                },
+                {
+                    "id": 2135,
+                    "nombre": "Tamara Smart"
+                }
+            ],
+            "productora": [
+                {
+                    "id": 406,
+                    "tipo": "productora",
+                    "nombre": "Constantin Film"
+                },
+                {
+                    "id": 53,
+                    "tipo": "productora",
+                    "nombre": "Netflix"
+                }
+            ],
+            "imagen_secundaria": "https://www.picta.cu/imagen/img_k3GSARS.jpeg",
+            "genero": [
+                {
+                    "id": 17,
+                    "tipo": "ci",
+                    "nombre": "Ciencia ficción"
+                },
+                {
+                    "id": 2,
+                    "tipo": "ci",
+                    "nombre": "Drama"
+                }
+            ],
+            "canal": {
+                "id": 1767,
+                "nombre": "Canal USB",
+                "tipo": "canal",
+                "slug_url": "canal-usb-2019-09-16-11-55-07-269205",
+                "publicado": true,
+                "eliminado": false,
+                "internacional": false,
+                "usuario": {
+                    "id": 1,
+                    "username": "admin"
+                },
+                "usuarios_asociados": [
+                    {
+                        "id": 230,
+                        "username": "LEduardoD"
+                    }
+                ]
+            },
+            "prioridad": 1,
+            "last_update": "2022-07-17T17:48:35.486532",
+            "nr": true
+        },
+        {
+            "pelser_id": 1215,
+            "nombre": "The Terminal List",
+            "cantidad_temporadas": 1,
+            "cantidad_capitulos": 8,
+            "ano": 2022,
+            "pais": "EEUU",
+            "director": [
+                {
+                    "id": 6667,
+                    "nombre": "David DiGilio"
+                }
+            ],
+            "guion": [
+                {
+                    "id": 6668,
+                    "nombre": "Jack Carr"
+                }
+            ],
+            "musica": [
+                {
+                    "id": 1022,
+                    "nombre": "Desconocido"
+                }
+            ],
+            "fotografia": [
+                {
+                    "id": 1022,
+                    "nombre": "Desconocido"
+                }
+            ],
+            "reparto": [
+                {
+                    "id": 2962,
+                    "nombre": "Chris Pratt"
+                },
+                {
+                    "id": 3991,
+                    "nombre": "Constance Wu"
+                },
+                {
+                    "id": 6669,
+                    "nombre": "Taylor Kitsch"
+                }
+            ],
+            "productora": [
+                {
+                    "id": 218,
+                    "tipo": "productora",
+                    "nombre": "Amazon Studios"
+                }
+            ],
+            "imagen_secundaria": "https://www.picta.cu/imagen/img_aOc9Znq.jpeg",
+            "genero": [
+                {
+                    "id": 5,
+                    "tipo": "ci",
+                    "nombre": "Acción"
+                },
+                {
+                    "id": 6,
+                    "tipo": "ci",
+                    "nombre": "Aventura"
+                },
+                {
+                    "id": 2,
+                    "tipo": "ci",
+                    "nombre": "Drama"
+                }
+            ],
+            "canal": {
+                "id": 3540,
+                "nombre": "D'Series",
+                "tipo": "canal",
+                "slug_url": "d-series-2020-05-24-00-10-02-028160",
+                "publicado": true,
+                "eliminado": false,
+                "internacional": false,
+                "usuario": {
+                    "id": 871,
+                    "username": "Hellsing"
+                },
+                "usuarios_asociados": [
+                    {
+                        "id": 2030,
+                        "username": "AltF4-Corporativo"
+                    },
+                    {
+                        "id": 871,
+                        "username": "Hellsing"
+                    },
+                    {
+                        "id": 91,
+                        "username": "luisenriquez"
+                    }
+                ]
+            },
+            "prioridad": 1,
+            "last_update": "2022-07-12T01:07:03.019212",
+            "nr": true
+        },
+        {
+            "pelser_id": 1213,
+            "nombre": "Queer as folk 2022",
+            "cantidad_temporadas": 1,
+            "cantidad_capitulos": 15,
+            "ano": 2022,
+            "pais": "EE. UU",
+            "director": [
+                {
+                    "id": 6660,
+                    "nombre": "Null"
+                }
+            ],
+            "guion": [
+                {
+                    "id": 6660,
+                    "nombre": "Null"
+                }
+            ],
+            "musica": [
+                {
+                    "id": 6660,
+                    "nombre": "Null"
+                }
+            ],
+            "fotografia": [
+                {
+                    "id": 6660,
+                    "nombre": "Null"
+                }
+            ],
+            "reparto": [
+                {
+                    "id": 6660,
+                    "nombre": "Null"
+                }
+            ],
+            "productora": [
+                {
+                    "id": 211,
+                    "tipo": "productora",
+                    "nombre": ""
+                }
+            ],
+            "imagen_secundaria": "https://www.picta.cu/imagen/img_LS0sMOc.jpeg",
+            "genero": [
+                {
+                    "id": 2,
+                    "tipo": "ci",
+                    "nombre": "Drama"
+                }
+            ],
+            "canal": {
+                "id": 5696,
+                "nombre": "Entre Diversidades",
+                "tipo": "canal",
+                "slug_url": "diversidades-2020-09-03-17-30-30-605897",
+                "publicado": true,
+                "eliminado": false,
+                "internacional": false,
+                "usuario": {
+                    "id": 1,
+                    "username": "admin"
+                },
+                "usuarios_asociados": [
+                    {
+                        "id": 36987,
+                        "username": "DiversidadesCU"
+                    }
+                ]
+            },
+            "prioridad": 1,
+            "last_update": "2022-06-26T23:25:21.978104",
+            "nr": true
+        }
+    ]
+}

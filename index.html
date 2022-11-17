@@ -11,16 +11,46 @@
 
 <body>
 
-    <!-- <h1>Series</h1> -->
-
-
-
-    <div id="app">
-
-
+    <div class="navbar">
+        <a href="#" class="navbar__brand">
+            <img src="assets/logo.svg" alt="Logo">
+        </a>
+        <div class="navbar__options">
+            <input class="options__search" type="text" placeholder="Buscar en picta">
+            <svg class="options__submit" viewBox="0 0 512 512">
+                <path
+                    d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z" />
+            </svg>
+        </div>
+        <div class="navbar__account">
+            <a href="#" class="account__link">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+                    <path
+                        d="M256 48C141.31 48 48 141.31 48 256s93.31 208 208 208 208-93.31 208-208S370.69 48 256 48zm-50.22 116.82C218.45 151.39 236.28 144 256 144s37.39 7.44 50.11 20.94c12.89 13.68 19.16 32.06 17.68 51.82C320.83 256 290.43 288 256 288s-64.89-32-67.79-71.25c-1.47-19.92 4.79-38.36 17.57-51.93zM256 432a175.49 175.49 0 01-126-53.22 122.91 122.91 0 0135.14-33.44C190.63 329 222.89 320 256 320s65.37 9 90.83 25.34A122.87 122.87 0 01382 378.78 175.45 175.45 0 01256 432z" />
+                </svg>
+            </a>
+        </div>
     </div>
 
+    <!-- <div class="wrapper">
+        <div class="sidebar">
+            <ul>
+                <li><a href="#">Series</a></li>
+                <li><a href="#">Películas</a></li>
+                <li><a href="#">Documentales</a></li>
+                <li><a href="#">Música</a></li>
+            </ul>
+        </div>
+    </div> -->
 
+    <div class="app"></div>
+
+    <div class="overlay"></div>
+    <div class="menu"></div>
+
+
+
+    <div class="observer"></div>
     <script src="app.js"></script>
 </body>
 
