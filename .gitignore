@@ -20,5 +20,7 @@
 .history
 .ionide
 assets/
+!assets/logo.svg
+!assets/person-circle.svg
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode
